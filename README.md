@@ -1,12 +1,10 @@
 # Project Introduction 
 The app designed for restaurants reservation to book seats.
 
-## Function
-*Frontend IOS iPhone APP:Restaurant customers can sign up as user to book and cancel their reservations online, making it convenient for customers to reserve their tables in advance and cancel seats.
-*Backend API: Customer, table, order management are designed in a management system by PHP.
-*Backend Weblink: http://49.232.213.55 
-*Username: admin
-*password:123456
+# Function
+1.Frontend IOS iPhone APP:Restaurant customers can sign up as user to book and cancel their reservations online, making it convenient for customers to reserve their tables in advance and cancel seats.
+2.Backend API: Customer, table, order management are designed in a management system by PHP.
+3.Backend Weblink: http://49.232.213.55 Username: admin password:123456
  
 # Xcode 14/MACOS 14/IOS simulation 17
  
@@ -20,7 +18,7 @@ The app designed for restaurants reservation to book seats.
     
     └──  Demo                // Swift code
     
-    │   └──  ......          // All need files
+       └──  ......          // All need files
     
 
  
@@ -35,7 +33,7 @@ The app designed for restaurants reservation to book seats.
  
  
 # Release
-v0.0: 
+v0.0 
 1.Select table and cancel table function on IOS App
 2.No user management function. All user names are in code, change user must change code.
 
@@ -44,14 +42,14 @@ v1.0
 2.wrong user name or password error
 3.develop backend API for management system via PHP
 
-#Reference:
+# Reference:
 Weather API on Lab.
 Lecture and lab pdf files
  
-#The assignment only me in group, no any other group members 
-Code by Zhaopeng Zhao in UTS
+# The assignment only me in group, no any other group members 
+Code by Zhaopeng Zhao  in UTS
 
-#Github linkage:
+# Github linkage:
 XXXX
 
 
